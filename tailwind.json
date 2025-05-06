@@ -1,0 +1,18 @@
+{
+  "Collection 1/Mode 1": {
+    "primary": {
+      "value": "#5B3AC1",
+      "type": "color"
+    },
+    "Number": {
+      "value": "1.25rem",
+      "type": "dimension"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "Collection 1/Mode 1"
+    ]
+  }
+}
